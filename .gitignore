@@ -2,3 +2,6 @@
 *.csv
 .DS_Store
 *.zip
+*.lbsm
+*.rep
+*.pickle
